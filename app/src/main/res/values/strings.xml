@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Quizer</string>
+    <string name="quizer">Quizer</string>
+    <string name="false_title">false</string>
+    <string name="true_title">true</string>
+    <string name="next_button">next</string>
+    <string name="previous_button">previous</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="question">Hello There this is where we are going to add something...</string>
+    <string name="correct_answer">You\'re Correct!</string>
+    <string name="wrong_answer">You\'re Wrong!</string>
+
 </resources>
